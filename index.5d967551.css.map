@@ -1,0 +1,1 @@
+{"mappings":"AEEA","sources":["index.5d967551.css","bRdPGq","src/style.css"],"sourcesContent":["html, body {\n  margin: 0;\n  padding: 0;\n}\n/*# sourceMappingURL=index.5d967551.css.map */\n",null,"@import './stars.css';\n\nhtml {\n  margin: 0;\n  padding: 0;\n}\n\nbody {\n  margin: 0;\n  padding: 0;\n}\n"],"names":[],"version":3,"file":"index.5d967551.css.map"}
